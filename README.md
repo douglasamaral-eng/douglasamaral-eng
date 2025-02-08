@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-  -👋 Hello, I'm Douglas Henrique!
+  -👋 Hello, I'm Douglas Amaral!
 🎯 Developer in Training | Software Engineering | Future Full Stack | International Business & Politics | Executive MBA In International Business Management
 
 💡 Passionate about technology, innovation, and global business. I have a degree in Political Science and International Relations, and I am currently studying Software Engineering (4th semester) while starting a postgraduate program (MBA) in International Business Management and a postgraduate program in Full Stack Development.
