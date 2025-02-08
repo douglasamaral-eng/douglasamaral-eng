@@ -29,5 +29,5 @@ With a unique combination of technology, business, and global strategy, I bring 
 
   <!-- Portfolio -->
 ## Portfolio:
-- [Primmeiro projeto html,css](https://github.com/douglasamaral-eng/Repositorio-GitHub.git)
+- [Primeiro projeto básico html,css](https://github.com/douglasamaral-eng/Repositorio-GitHub.git)
 - [PROJETO 2]()
